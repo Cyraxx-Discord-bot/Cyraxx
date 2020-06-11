@@ -24,7 +24,7 @@ __**Features**__
 
 [![Cyraxx](https://discordapp.com/api/guilds/536233549272055837/embed.png?style=banner2)](https://discord.gg/HKtQmtj)
 
-<img src="https://top.gg/api/widget/546388840235925524.svg">
+<img align="left" src="https://top.gg/api/widget/546388840235925524.svg">
 
 
 ###### Cyraxx ✨#6457.
