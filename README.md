@@ -40,6 +40,6 @@
 [![](https://discordapp.com/api/guilds/536233549272055837/embed.png?style=banner2)](https://discord.gg/HKtQmtj)
 
 <br></br>
-> ###### Cyraxx ✨#6457.
+###### Cyraxx ✨#6457.
 
 [![Discord Bots](https://top.gg/api/widget/546388840235925524.svg)](https://top.gg/bot/546388840235925524/vote)
