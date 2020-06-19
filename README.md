@@ -1,5 +1,5 @@
 <center><a href="https://discord.com/oauth2/authorize?client_id=546388840235925524&scope=bot&permissions=2080697430">
-  <img align="center" width="50px" height="50px" style="border-radius: 50%; border:10px solid red;" alt="Cyraxx" src="https://images.discordapp.net/avatars/546388840235925524/aa391e38e76fb861f1a332e2d1943b55.png?size=512">
+  <img align="center" width="100px" height="100px" style="border-radius: 50%; border:10px solid red;" alt="Cyraxx" src="https://images.discordapp.net/avatars/546388840235925524/aa391e38e76fb861f1a332e2d1943b55.png?size=512">
 </a></center>
 <br>
 <br>
