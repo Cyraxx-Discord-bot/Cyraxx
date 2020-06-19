@@ -1,5 +1,5 @@
 <center><a href="https://discord.com/oauth2/authorize?client_id=546388840235925524&scope=bot&permissions=2080697430">
-  <img align="center" width="50px" height="50px" style="border-radius: 50%; border:10px solid red;" alt="Cyraxx" src="https://images.discordapp.net/avatars/546388840235925524/150672bb0eb298826cb1f6fec319a0ef.png?size=512">
+  <img align="center" width="50px" height="50px" style="border-radius: 50%; border:10px solid red;" alt="Cyraxx" src="https://images.discordapp.net/avatars/546388840235925524/aa391e38e76fb861f1a332e2d1943b55.png?size=512">
 </a></center>
 <br>
 <br>
@@ -17,7 +17,7 @@
 
 ## __**Features**__
 -    **Image Manipulation** ( tigger, gay, garbage, beautiful, ship, etc )
--    **Economy** ( work, beg, daily, crime, slot, problem, etc )
+-    **Economy** ( work, beg, daily, crime, search, slot, rob, problem,  etc )
 -    **Moderation** ( mute, kick, ban, softban, hackban, vckick, vcmove, etc )
 -    **General** ( 8ball, advice, quote, nitro, embed, etc )
 -    **Images** ( arts, cute, cat, dog, duck, fox, panda, reddit, wallpaper, etc )
@@ -40,6 +40,6 @@
 [![](https://discordapp.com/api/guilds/536233549272055837/embed.png?style=banner2)](https://discord.gg/HKtQmtj)
 
 <br></br>
-###### Cyraxx ✨#6457.
+> ###### Cyraxx ✨#6457.
 
 [![Discord Bots](https://top.gg/api/widget/546388840235925524.svg)](https://top.gg/bot/546388840235925524/vote)
