@@ -1,10 +1,10 @@
 <center><a href="https://discord.com/oauth2/authorize?client_id=546388840235925524&scope=bot&permissions=2080697430">
-  <img align="center" width="100px" height="100px" style="border-radius: 50%; border:10px solid red;" alt="Cyraxx" src="https://images.discordapp.net/avatars/546388840235925524/aa391e38e76fb861f1a332e2d1943b55.png?size=512">
+  <img align="center" width="100px" height="100px" style="border-radius: 50%; border:10px solid red;" alt="Cyraxx" src="https://images.discordapp.net/avatars/546388840235925524/2b31bc72678d388b35e14c051ffa2301.png?size=512">
 </a></center>
 <br>
 <br>
 
-> A multipurpose discord bot with **441+** commands, Economy, memes, HD Images, Moderation, Manipulation, Games, Utilities, Fun, Emotes and more!
+> A multipurpose discord bot with **437+** commands, Economy, memes, HD Images, Moderation, Manipulation, Games, Utilities, Fun, Emotes and more!
 
 [![](https://top.gg/api/widget/status/546388840235925524.svg)](https://top.gg/bot/546388840235925524)
 <a href="https://www.python.org/downloads/">
